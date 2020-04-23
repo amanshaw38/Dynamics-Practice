@@ -1,0 +1,9 @@
+C:\Users\amshaw\Documents\Dynamics-Test-CodeBase\Sample Programs\bin\Debug\Sample Programs.dll
+C:\Users\amshaw\Documents\Dynamics-Test-CodeBase\Sample Programs\bin\Debug\Sample Programs.pdb
+C:\Users\amshaw\Documents\Dynamics-Test-CodeBase\Sample Programs\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\amshaw\Documents\Dynamics-Test-CodeBase\Sample Programs\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\amshaw\Documents\Dynamics-Test-CodeBase\Sample Programs\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\amshaw\Documents\Dynamics-Test-CodeBase\Sample Programs\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\amshaw\Documents\Dynamics-Test-CodeBase\Sample Programs\obj\Debug\Sample Programs.csproj.CopyComplete
+C:\Users\amshaw\Documents\Dynamics-Test-CodeBase\Sample Programs\obj\Debug\Sample Programs.dll
+C:\Users\amshaw\Documents\Dynamics-Test-CodeBase\Sample Programs\obj\Debug\Sample Programs.pdb
